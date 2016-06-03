@@ -1,0 +1,25 @@
+{
+  "name": "vue-rails",
+  "version": "1.0.0",
+  "description": "vue-rails ==============",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitok/vue-rails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaitok/vue-rails/issues"
+  },
+  "homepage": "https://github.com/kaitok/vue-rails#readme",
+  "dependencies": {
+    "superagent": "^2.0.0"
+  }
+}
