@@ -10,6 +10,11 @@ window.onload = function () {
   superagent
   .get('./user')
   .end(function(err, res){
-    console.log(res.body);
+    new Vue({
+      el: '#list',
+      data: {
+        users: res.body
+      }
+    })
   });
 }
