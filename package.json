@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/kaitok/vue-rails#readme",
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "superagent": "^2.0.0"
   }
 }
