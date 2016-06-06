@@ -3,7 +3,11 @@ vue-rails
 
 Vue.js + Rails
 
-Install package
+Install npm package
+
+    $ npm i
+
+Install gem package
 
     $ bundle install
 
